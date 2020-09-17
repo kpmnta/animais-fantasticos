@@ -1,4 +1,4 @@
-# animais-fantasticos
+# Animais Fantásticos
 
 Projeto desenvolvido durante o curso de Javascript da Origamid. 
 
